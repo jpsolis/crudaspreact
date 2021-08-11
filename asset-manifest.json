@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/crudaspreact/static/css/main.a617e044.chunk.css",
+    "main.js": "/crudaspreact/static/js/main.b1c5d374.chunk.js",
+    "main.js.map": "/crudaspreact/static/js/main.b1c5d374.chunk.js.map",
+    "runtime-main.js": "/crudaspreact/static/js/runtime-main.c3e7bfcd.js",
+    "runtime-main.js.map": "/crudaspreact/static/js/runtime-main.c3e7bfcd.js.map",
+    "static/css/2.4be38407.chunk.css": "/crudaspreact/static/css/2.4be38407.chunk.css",
+    "static/js/2.b17f2976.chunk.js": "/crudaspreact/static/js/2.b17f2976.chunk.js",
+    "static/js/2.b17f2976.chunk.js.map": "/crudaspreact/static/js/2.b17f2976.chunk.js.map",
+    "static/js/3.110ecae5.chunk.js": "/crudaspreact/static/js/3.110ecae5.chunk.js",
+    "static/js/3.110ecae5.chunk.js.map": "/crudaspreact/static/js/3.110ecae5.chunk.js.map",
+    "index.html": "/crudaspreact/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/crudaspreact/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.a617e044.chunk.css.map": "/crudaspreact/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.b17f2976.chunk.js.LICENSE.txt": "/crudaspreact/static/js/2.b17f2976.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3e7bfcd.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.b17f2976.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.b1c5d374.chunk.js"
+  ]
+}
